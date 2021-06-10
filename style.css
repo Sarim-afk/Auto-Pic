@@ -1,0 +1,13 @@
+body{
+    color:white;
+    background:pink;
+}
+
+.name_of_objects{
+    color:yellow;
+}
+#camera{
+    border:2 px- dashed black;
+    width: 350px;
+    height: 300px;
+}
